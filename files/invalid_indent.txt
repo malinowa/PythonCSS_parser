@@ -1,0 +1,5 @@
+div+p,
+div>p
+    font-size: smaller; // nie cztery spacje to niepoprawne wcięcie
+	font-weight: bolder; // powinna być tabulacja, jak tutaj
+	font-style: normal; // ta linia jest dobrze wcięta

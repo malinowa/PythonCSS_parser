@@ -1,0 +1,3 @@
+:quax
+	display: flex // brak średnika jest niedopuszczalny między deklaracjami
+	margin: 1px // ale jest OK na końcu

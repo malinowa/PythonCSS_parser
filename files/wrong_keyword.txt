@@ -1,0 +1,2 @@
+pine + apple
+	max-width: 100% !oops; // !important jest jedynym słowem kluczowym z !

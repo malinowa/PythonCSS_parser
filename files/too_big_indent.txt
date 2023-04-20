@@ -1,0 +1,5 @@
+div+p,
+div>p
+		font-family: serif; // zbyt duże wcięcie to problem
+	font-weight: bolder; // powinna być tabulacja, jak tutaj
+	font-style: normal; // ta linia jest dobrze wcięta
